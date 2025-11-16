@@ -20,7 +20,7 @@ I create **fully customized, professional websites** with modern UI/UX using:
 Website: **melikaduty.com**  
 I developed this project and currently handle all its **technical support**.
 
-### 🔹 Acountchi (Founder)
+### 🔹 Ekantchi (Ceo)
 A platform where users can **easily buy and sell game accounts**.
 
 ## 🛠 Skills
