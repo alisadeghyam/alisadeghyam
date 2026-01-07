@@ -29,6 +29,5 @@ A platform where users can **easily buy and sell game accounts**.
 ## 📫 Contact
 **Social ID:** `alisadeghyam`  
 
---
 ![snake](https://github.com/user-attachments/assets/9aeae7b0-2cc4-4111-8028-e9d9c8d268df)
 
