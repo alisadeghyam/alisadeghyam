@@ -24,13 +24,11 @@ I developed this project and currently handle all its **technical support**.
 A platform where users can **easily buy and sell game accounts**.
 
 ## 🛠 Skills
-<img src="https://skillicons.dev/icons?i=html,css,js,php,wordpress,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,php,wordpress,git,github,vscode" />
 
 ## 📫 Contact
 **Social ID:** `alisadeghyam`  
-Feel free to reach out anytime!
 
 --
-⭐️ *If you like my work, don't forget to follow or star my repos!*
 ![snake](https://github.com/user-attachments/assets/9aeae7b0-2cc4-4111-8028-e9d9c8d268df)
 
