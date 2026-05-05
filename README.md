@@ -15,14 +15,6 @@ I create **fully customized, professional websites** with modern UI/UX using:
 - Skilled in both front-end & back-end customization.
 - Able to build any type of website with optimized performance and clean UI.
 
-## 🛒 Projects
-### 🔹 MelikaDuty
-Website: **melikaduty.com**  
-I developed this project and currently handle all its **technical support**.
-
-### 🔹 Ekantchi (Ceo)
-A platform where users can **easily buy and sell game accounts**.
-
 ## 🛠 Skills
 <img src="https://skillicons.dev/icons?i=html,css,php,wordpress,git,github,vscode" />
 
