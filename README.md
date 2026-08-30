@@ -1,4 +1,4 @@
-# Hi there, I'm Ali 👋
+# Hi there, I'm Ali
 
 ## 💻 Web Developer
 I'm a **20-year-old professional web developer** with over **4 years of experience** in WordPress and **2 years of specialized, professional web development**.
